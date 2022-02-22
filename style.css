@@ -13,3 +13,13 @@
     padding: 10px 20px;
     border-radius: 10px;
 }
+.color{
+    color: orange;
+}
+.card-img-top{
+    width: 280px;
+    height: 331px;
+}
+.card{
+    text-align: center;
+}
