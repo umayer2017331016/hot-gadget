@@ -23,3 +23,16 @@
 .card{
     text-align: center;
 }
+/* .under{
+    text-decoration-color: tomato;
+    text-decoration-thickness: 3px;
+    text-decoration-style: solid;
+    text-underline-offset: 7px;
+} */
+.under{
+    text-decoration: none; 
+    border-bottom: 10px solid tomato;
+}
+#catagories img{
+    width: 100%;
+}
